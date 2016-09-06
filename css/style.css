@@ -1,0 +1,43 @@
+html, body {
+    position: relative;
+}
+
+#mainmap {
+    height: 500px;
+    width: 900px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: auto;
+}
+
+
+.my-div-icon img{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.popup-content {
+    font-family: 'Merienda One', cursive;
+    color:#666666;
+    text-align: center;
+}
+
+.modal-content {
+    font-family: 'Merienda One', cursive;
+    color:#666666;
+}
+
+.modal-body-img {
+    text-align: center;
+}
+
+.modal-body-img img {
+    max-height: 400px;
+    max-width: 550px;
+}
+
+.title {
+    font-family: 'Merienda One', cursive;
+    font-size: 36pt;
+    color:#666666;
+}

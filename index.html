@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fotostoria</title>
+    <link rel="stylesheet" href="node_modules/leaflet/dist/leaflet.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="node_modules/leaflet.markercluster/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="node_modules/leaflet.markercluster/dist/MarkerCluster.Default.css">
+</head>
+<body>
+<div id="mainmap"></div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="modal-body-img">
+                    <img src="" alt="">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <p class="footer-content"></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- importazione delle librerie -->
+<script src="node_modules/leaflet/dist/leaflet.js"></script>
+<script src="node_modules/jquery/dist/jquery.min.js"></script>
+<script src="js/controller.js"></script>
+<script src="node_modules/bootstrap/js/modal.js"></script>
+<script src="node_modules/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+</body>
+</html>

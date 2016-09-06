@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.49223,41.89032]
+      },
+      "properties": {
+        "name": "colosseo",
+        "description": "Il colosseo",
+        "url": "colosseo.jpg",
+        "thumb_url": "thumb_colosseo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.48783, 41.89183]
+      },
+      "properties": {
+        "name": "Fori imperiali",
+        "description": "Veduta dei fori imperiali",
+        "url": "fori-imperiali.jpg",
+        "thumb_url": "thumb_fori-imperiali.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.48273,41.89537]
+      },
+      "properties": {
+        "name": "Vittoriano",
+        "description": "Il celebre complesso del Vittoriano, conosciuto anche con il nome di Altare della patria.",
+        "url": "vittoriano.jpg",
+        "thumb_url": "thumb_vittoriano.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.48337,41.90615]
+      },
+      "properties": {
+        "name": "Piazza di spagna",
+        "description": "La celebre scalinata di piazza di Spagna",
+        "url": "piazza-di-spagna.jpg",
+        "thumb_url": "thumb_piazza-di-spagna.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.47639,41.91062]
+      },
+      "properties": {
+        "name": "Piazza del popolo",
+        "description": "La fontana di Nettuno",
+        "url": "piazza-del-popolo.jpg",
+        "thumb_url": "thumb_piazza-del-popolo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.48307,41.91476]
+      },
+      "properties": {
+        "name": "Villa Borghese",
+        "description": "Il celebre e pittoresco laghetto di Villa Borghese",
+        "url": "villa-borghese.jpg",
+        "thumb_url": "thumb_villa-borghese.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.48600,41.91576]
+      },
+      "properties": {
+        "name": "Villa Borghese - entrata",
+        "description": "L'entrata di villa Borghese",
+        "url": "villa-borghese-2.jpg",
+        "thumb_url": "thumb_villa-borghese-2.jpg"
+      }
+    }
+
+  ]
+}
